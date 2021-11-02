@@ -1,5 +1,6 @@
-<h1 align="center">Hello 👋, I'm Paloma</h1>
-<h3 align="center">A passionate public policy manager from Brazil 💚</h3>
+<p align="center">
+  <img src="https://https://github.com/Lima-Paloma/LimaPaloma/main/assets/header-github.gif" alt="Oi, eu sou a Paloma">
+</p>
 
 <!--
 How to make this gif ?
