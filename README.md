@@ -1,26 +1,15 @@
 <h1 align="center">Hello 👋, I'm Paloma</h1>
 <h3 align="center">A passionate public policy manager from Brazil 💚</h3>
 
-
-
 - ♻ I’m currently working on [Sustainable Cities Institute](https://icidadessustentaveis.org.br/)
-
 - 🤓 I’m currently learning **Data science, statistic**
-
 - 📊 I’m looking to collaborate on [Monitoring&Evaluation of public policies](https://www.nossasaopaulo.org.br/)
-
 - 💪🏽 I’m looking for help with [Data science and standardization](https://www.nossasaopaulo.org.br/campanhas/#13)
-
 - 👩🏽‍💻 All of my projects are available at [https://github.com/Lima-Paloma](https://github.com/Lima-Paloma)
-
 - ✍🏽I regularly write articles on [https://medium.com/@paloma.lima.sto](https://medium.com/@paloma.lima.sto)
-
 - 💬 Ask me about **public policies, inequalities, cities, climate changes**
-
 - 📭 How to reach me **paloma.lima.sto@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/palomalimade/](https://www.linkedin.com/in/palomalimade/)
-
 - ⚡ Fun fact **I know all about curly hair 💆🏽‍♀️💇🏽‍♀️**
 
 <h3 align="left">Connect with me:</h3>
