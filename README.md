@@ -18,7 +18,6 @@
 
 
 <h2 align="left">Github Metrics 📊:</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lima-paloma&show_icons=true&locale=en&layout=compact" alt="lima-paloma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lima-paloma&show_icons=true&locale=en" alt="lima-paloma" /></p>
 
