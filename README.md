@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/palomalimade/](https://www.linkedin.com/in/palomalimade/)
 
-- ⚡ Fun fact **♥ run and yoga**
+- ⚡ Fun fact **I ♥ run and yoga**
 
 
 
