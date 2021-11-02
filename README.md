@@ -44,3 +44,4 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 <a href="https://medium.com/@paloma.lima.sto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@paloma.lima.sto" height="30" width="40" /></a>
 </p>
 
+
