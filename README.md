@@ -19,7 +19,8 @@
 
 
 <h2 align="left">Github Metrics 📊:</h2>
-
+profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@paloma.lima.sto" height="30" width="40" /></a>
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lima-paloma&" alt="lima-paloma" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lima-paloma&show_icons=true&locale=en" alt="lima-paloma" /></p>
 
