@@ -18,8 +18,8 @@
 
 
 <h2 align="left">Github Metrics 📊:</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lima-paloma&label=Profile%20views&color=0e75b6&style=flat" alt="lima-paloma" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lima-paloma&show_icons=true&locale=en" alt="lima-paloma" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lima-paloma&show_icons=true&locale=en" alt="lima-paloma" /></p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lima-paloma&label=Profile%20views&color=0e75b6&style=flat" alt="lima-paloma" /> </p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lima-paloma&show_icons=true&locale=en" alt="lima-paloma" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lima-paloma&show_icons=true&locale=en" alt="lima-paloma" /></p> 
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
