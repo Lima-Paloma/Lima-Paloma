@@ -11,7 +11,8 @@ This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicat
 Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
 -->
 
-- ♻ I’m currently working on [Sustainable Cities Institute](https://icidadessustentaveis.org.br/)
+- 🏢 I’m currently working on [Itau Foundation](https://fundacaoitau.org.br/)
+- 📚 I'm currently a master's student in political science on Sao Paulo University
 - 🤓 I’m currently learning **Data science, statistic**
 - 📊 I’m looking to collaborate on [Monitoring&Evaluation of public policies](https://www.nossasaopaulo.org.br/)
 - 💪🏽 I’m looking for help with [Data science and standardization](https://www.nossasaopaulo.org.br/campanhas/#13)
